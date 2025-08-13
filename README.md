@@ -6,7 +6,7 @@ I'm Pranav, I'm an AI Engineer
 - 🌱 I'm currently building [kalpa.chat](https://kalpa.chat), a reasoning engine that works on Socratic questioning
 
 
-I'm currently exploring LLMs + reasoning frameworks + epistemology
+I'm currently exploring LLMs + reasoning frameworks + epistemology \n
 Reach out to me at pranav.marla@gmail.com, I would love to chat!
   
 
