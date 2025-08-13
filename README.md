@@ -3,8 +3,9 @@
 I'm Pranav, I'm an AI Engineer - working on AI agents in reasoning, planning and orchestration
 
 - ⚛️ I like building intelligent interfaces (think JARVIS)
-- 🔭 I'm currently exploring LLMs + reasoning frameworks + epistemology
-- 🌱 I'm currently building [kalpa.chat](https://kalpa.chat), a reasoning engine that works on Socratic questioning 
+- 🌱 My current project is [kalpa.chat](https://kalpa.chat), a reasoning engine that works on Socratic questioning 
+- 🔭 I'm exploring LLMs + reasoning frameworks + epistemology
+- 💻 I work at DAZN as an AI consultant
 - 💡 I like experimenting with reasoning datasets, my favorite is ARC-AGI
 
 
