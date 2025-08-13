@@ -3,7 +3,8 @@
 I'm Pranav, I'm an AI Engineer
 
 - 🔭 I like building intelligent interfaces (think JARVIS)
-- 🌱 I'm currently building a Kalpa (kalpa.chat), a reasoning engine that works on socratic questioning
+- 🌱 I'm currently building a Kalpa ([kalpa.chat](https://kalpa.chat)), a reasoning engine that works on Socratic questioning
+
 
 I'm currently exploring LLMs + reasoning frameworks + epistemology
 Reach out to me at pranav.marla@gmail.com, I would love to chat!
