@@ -4,7 +4,11 @@ I'm Pranav, I'm an AI Engineer
 
 - 🔭 I like building intelligent interfaces(think JARVIS)
 - 🌱 I'm currently building a Kalpa, a reasoning engine that works on socratic questioning
-- 💬 kalpa.chat
+- 💬 Check it out kalpa.chat
+
+- I'm currently exploring LLMs + Natural Logic
+- Reach out to me at pranav.marla@gmail.com, I would love to chat!
+  
 
 <!--
 **marlaman/marlaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
