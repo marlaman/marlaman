@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi! 👋
+
+I'm Pranav, I'm an AI Engineer
+
+- 🔭 I like building intelligent interfaces(think JARVIS)
+- 🌱 I'm currently building a Kalpa, a reasoning engine that works on socratic questioning
+- 💬 kalpa.chat
 
 <!--
 **marlaman/marlaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
